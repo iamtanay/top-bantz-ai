@@ -1,0 +1,15 @@
+{
+    "4-3-3": [
+        { "id": 9990, "name": "Goalkeeper", "x": 10, "y": 50 },
+        { "id": 9991, "name": "Right Back", "x": 30, "y": 80 },
+        { "id": 9992, "name": "Right Center Back", "x": 30, "y": 60 },
+        { "id": 9993, "name": "Left Center Back", "x": 30, "y": 40 },
+        { "id": 9994, "name": "Left Back", "x": 30, "y": 20 },
+        { "id": 9995, "name": "Midfielder 1", "x": 50, "y": 70 },
+        { "id": 9996, "name": "Midfielder 2", "x": 50, "y": 50 },
+        { "id": 9997, "name": "Midfielder 3", "x": 50, "y": 30 },
+        { "id": 9998, "name": "Right Wing", "x": 70, "y": 80 },
+        { "id": 274, "name": "Edinson Cavani", "x": 80, "y": 50 },
+        { "id": 276, "name": "Neymar", "x": 70, "y": 20 }
+    ]
+}
