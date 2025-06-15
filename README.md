@@ -40,6 +40,7 @@ Create a .env file
 ```bash
 API_FOOTBALL_KEY=your_api_sports_key
 OPENAI_API_KEY=your_openai_api_key
+TAVILY_API_KEY=your_tavily_api_key
 ```
 
 ### 5. Run the app
