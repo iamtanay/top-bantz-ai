@@ -14,7 +14,7 @@ Top Bantz is an AI-powered football commentary web app that lets you click on pl
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/top-bantz-ai.git
+git clone https://github.com/iamtanay/top-bantz-ai
 cd top-bantz-ai
 ```
 
