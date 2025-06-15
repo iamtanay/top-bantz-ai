@@ -2,11 +2,11 @@ import streamlit as st
 from components.pitch import render_pitch
 from components.sidebar import show_sidebar
 from orchestration.flow import run_agent_flow
-import asyncio  # <-- import asyncio
+import asyncio
 
 st.set_page_config(page_title="Top Bantz AI Commentary", layout="wide")
 
-st.title("\U0001F3C0 Top Bantz AI Commentary")
+st.title("\U000026BD Top Bantz AI Commentary")
 
 selected_player = render_pitch()
 

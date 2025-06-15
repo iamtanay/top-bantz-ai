@@ -4,14 +4,14 @@ from config import API_FOOTBALL_KEY
 BASE_URL = "https://v3.football.api-sports.io"
 
 HEADERS = {
-    "x-apisports-key": API_FOOTBALL_KEY  # Correct header
+    "x-apisports-key": API_FOOTBALL_KEY
 }
 
 def get_player_stat(player_id):
     url = f"{BASE_URL}/players"
     params = {
         "id": player_id,
-        "season": 2021  # 2021 confirmed working for Cavani
+        "season": 2023
     }
 
     res = requests.get(url, headers=HEADERS, params=params)
